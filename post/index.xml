@@ -2,64 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Blog of me, myself and I</title>
-    <link>https://yourdomain.com/post/</link>
+    <link>mariehst.github.io/post/</link>
     <description>Recent content in Posts on The Blog of me, myself and I</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jul 2016 21:43:07 +0200</lastBuildDate>
-    <atom:link href="https://yourdomain.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="mariehst.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>mein erster post</title>
-      <link>https://yourdomain.com/post/mein-erster-post/</link>
-      <pubDate>Fri, 22 Jul 2016 21:43:07 +0200</pubDate>
+      <title>About Me</title>
+      <link>/mariehst.github.io/post/about-me/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yourdomain.com/post/mein-erster-post/</guid>
+      <guid>/mariehst.github.io/post/about-me/</guid>
       <description>
 
-&lt;h1 id=&#34;tryharder-des-todes&#34;&gt;#Tryharder des Todes&lt;/h1&gt;
+&lt;h1 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h1&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Ich habe bis jetzt keine ahnung was wir an diesem Blog,
-bis jetzt getabn haben trolololololo.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Frauen und Technik passen ja meistens nicht zusammen. Ich möchte euch hier
+ zeigen wie ein Mädchen ohne jegliche Grundkentisse über PC und was dazu gehört, programmieren lernt.
+ Ich selbst bin Studentin und 19 Jahre alt. Das ich Informationsdlogistik, also etwas mit Computer studiere
+ sollte man dazu vielleicht auch noch zu erwähnen.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Das weiß ich leider nicht was es macht
-das auch nicht
-und das soweiso nicht&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;trolololololo
-hallo
-eins zwei dre&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/Cn_rH9UUMAAX15R.jpg:large&#34; alt=&#34;Alternativer Text&#34; /&gt;
-&lt;img src=&#34;https://yourdomain.com/img/test.jpg&#34; alt=&#34;Alternativer Text&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>good to great</title>
-      <link>https://yourdomain.com/post/good-to-great/</link>
-      <pubDate>Fri, 22 Jul 2016 21:27:32 +0200</pubDate>
-      
-      <guid>https://yourdomain.com/post/good-to-great/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;h2 id=&#34;dies-ist-eine-überschrift&#34;&gt;Dies ist eine Überschrift.&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Dies ist der erste Listenpunkt.&lt;/li&gt;
-&lt;li&gt;Dies ist der zweite Listenpunkt.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Hier ist ein wenig Beispiel-Code:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;return shell_exec(&amp;quot;echo $input | $Markdown_script&amp;quot;);
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Viel Spaß auf dieser Seite.&lt;/p&gt;
 </description>
     </item>
     

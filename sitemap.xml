@@ -2,18 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yourdomain.com/</loc>
-    <lastmod>2016-07-22T21:43:07+02:00</lastmod>
+    <loc>/mariehst.github.io/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yourdomain.com/post/mein-erster-post/</loc>
-    <lastmod>2016-07-22T21:43:07+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yourdomain.com/post/good-to-great/</loc>
-    <lastmod>2016-07-22T21:27:32+02:00</lastmod>
+    <loc>/mariehst.github.io/post/about-me/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
